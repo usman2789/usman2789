@@ -1,15 +1,29 @@
-<h1>👋 Hey there, I’m Usman! (@usman2789)</h1>
-🚀 Passionate about:
-Creative Web Development: Turning wild ideas into sleek, interactive web experiences.
-AI-powered Solutions: Exploring how AI can solve real-world challenges.
-Tech Business: I’m on a mission to make my mark in tech with game-changing ideas.
-🌱 Currently diving into:
-React & Redux – Building highly responsive UIs that are as smart as they are fast.
-Next.js & TypeScript – Leveling up for smoother performance and type-safe coding.
-Backend Adventures – Exploring Django with React for scalable full-stack solutions.
-💬 Looking to collaborate on:
-Innovative Projects that push boundaries in web and AI development.
-Digital Products focused on user experience, ecommerce, and automation.
-📬 How to reach me:
-Email: mangoapple027@gmail.com
-LinkedIn:https://www.linkedin.com/in/muhammad-usman-0ba87a289
+<h1 align="center">👋 Hey there, I’m Usman! (@usman2789)</h1>
+
+<h3 align="center">🚀 Passionate about:</h3>
+<ul>
+  <li><b>Creative Web Development</b>: Turning wild ideas into sleek, interactive web experiences.</li>
+  <li><b>AI-powered Solutions</b>: Exploring how AI can solve real-world challenges.</li>
+  <li><b>Tech Business</b>: On a mission to make my mark in tech with game-changing ideas.</li>
+</ul>
+
+<h3 align="center">🌱 Currently diving into:</h3>
+<ul>
+  <li><b>React & Redux</b> – Building highly responsive UIs that are as smart as they are fast.</li>
+  <li><b>Next.js & TypeScript</b> – Leveling up for smoother performance and type-safe coding.</li>
+  <li><b>Backend Adventures</b> – Exploring Django with React for scalable full-stack solutions.</li>
+</ul>
+
+<h3 align="center">💬 Looking to collaborate on:</h3>
+<ul>
+  <li><b>Innovative Projects</b> that push boundaries in web and AI development.</li>
+  <li><b>Digital Products</b> focused on user experience, ecommerce, and automation.</li>
+</ul>
+
+<h3 align="center">📬 How to reach me:</h3>
+<ul>
+  <li><b>Email</b>:mangoapple027@gmail.com</li>
+  <li><b>LinkedIn</b>: <a href="linkedin.com/in/muhammad-usman-0ba87a289">Your LinkedIn Link Here</a></li>
+ 
+</ul>
+
