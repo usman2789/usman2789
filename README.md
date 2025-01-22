@@ -22,7 +22,7 @@
 
 <h3 align="center">📬 How to reach me:</h3>
 <ul>
-  <li><b>Email</b>:mangoapple027@gmail.com</li>
+  <li><b>Email</b>:usman@behtarkal.com</li>
   <li><b>LinkedIn</b>: <a href="linkedin.com/in/muhammad-usman-0ba87a289"> LinkedIn Link Here</a></li>
  
 </ul>
