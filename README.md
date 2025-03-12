@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Gen Ai**
 
-- 👨‍💻 All of my projects are available at [usman-dev.vercel.aoo](usman-dev.vercel.aoo)
+- 👨‍💻 All of my projects are available at [usman-dev.vercel.app](usman-dev.vercel.app)
 
 - 📫 How to reach me **usman@behtarkal.com**
 
