@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
-- 🌱 I’m currently learning **Gen Ai**
+- 🌱 I’m currently learning **Supabase**
 
 - 👨‍💻 All of my projects are available at [usman-is-a-dev.vercel.app](https://usman-is-a-dev.vercel.app/)
 
