@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Supabase**
 
-- 👨‍💻 All of my projects are available at [usman-is-a-dev.vercel.app](https://usman-is-a-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [muhammadusman.tech](https://muhammadusman.tech/)
 
 - 📫 How to reach me **usman@behtarkal.com**
 
