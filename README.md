@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+<h1 align="center">Hi 👋,  Muhammad Usman here.</h1>
+<h3 align="center">Innovative WEB Developer.</h3>
 
-- 🌱 I’m currently learning **Supabase** and **AI modals fine tunning**
+- 🌱 I’m currently learning **Python** and **AI modals fine tunning**
 
 - 👨‍💻 All of my projects are available at [muhammadusman.tech](https://muhammadusman.tech/)
 
-- 📫 How to reach me **usman@digitaluq.com**
+- 📫 How to reach me **hi@muhmdusman.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +43,5 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
-<a href="https://supabase.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
-</a>
+
 </p>
