@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋,  Muhammad Usman here.</h1>
 <h3 align="center">Innovative WEB Developer.</h3>
 
-- 🌱 I’m currently learning **Python** and **AI modals fine tunning**
+-  I’m currently working on **AI-Base Entry Test Prep PLatform** @TaleemKaSafar
 
-- 👨‍💻 All of my projects are available at [muhammadusman.tech](https://muhammadusman.tech/)
+-  Portfolio Link [muhammadusman.tech](https://muhammadusman.tech/)
 
-- 📫 How to reach me **hi@muhmdusman.site**
+-  How to reach me **hi@muhmdusman.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
