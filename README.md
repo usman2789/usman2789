@@ -21,13 +21,7 @@
 
 I'm a **Web Engineer with 2 years of experience**, with a GIS/Remote Sensing background on the side.
 
-The one thing I care about most: **every student should be able to start their tech journey early** — not stumble into their first real project in 2nd year of university, and not miss the door entirely because they never had access to it. That belief shapes everything I build.
-
-<br/>
-
-## 🤝 Building Community
-
-I'm an active member of the **AWS Student Builder Group community**, working toward AWS's broader mission of helping students start their tech careers earlier — including students who don't know where to begin, and those who never had access to formal schooling or a CS pathway at all. My focus is on running sessions, hackathons, and mentorship spaces that meet students at that starting line.
+The one thing I care about most: **every student should be able to start their tech journey early** — not stumble into their first real project in 2nd year of university, and not miss the door entirely because they never had access to it. That belief shapes everything I build, including the work I do as an active member of the **AWS Student Builder Group community**, running sessions and mentorship spaces for students who don't know where to begin.
 
 <br/>
 
@@ -101,11 +95,6 @@ I'm an active member of the **AWS Student Builder Group community**, working tow
 <br/>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhmdusman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmdusman&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=muhmdusman&theme=tokyonight&hide_border=true" />
