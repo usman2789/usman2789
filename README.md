@@ -1,14 +1,17 @@
 <div align="center">
 
-# Hey, I'm Muhammad Usman 👋
+# Hi, I'm Muhammad Usman 👋
 
-**Web Engineer · GIS & Remote Sensing · Community Builder**
-**AWS Student Builder Group Leader @ NUST**
+**Web Engineer · Community Builder · Helping Students Start Tech Earlier**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Helping+students+start+tech+early%2C+not+in+2nd+year;Building+TaleemKaSafar+%E2%80%94+AI-based+learning+for+everyone;Community+first.+Code+second.+Impact+always." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Every+student+deserves+to+start+tech+early;Not+in+2nd+year.+Not+never.;Building+TaleemKaSafar+to+close+that+gap." alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muhmdusman.site-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhmdusman.site)
-[![GitHub followers](https://img.shields.io/github/followers/muhmdusman?style=for-the-badge&logo=github&color=181717&labelColor=000)](https://github.com/muhmdusman)
+<p>
+  <a href="https://muhmdusman.site"><img src="https://img.shields.io/badge/Portfolio-muhmdusman.site-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:hi@muhmdusman.site"><img src="https://img.shields.io/badge/Email-hi%40muhmdusman.site-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-usman-0ba87a289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/muhmdusman"><img src="https://img.shields.io/badge/GitHub-muhmdusman-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -16,29 +19,21 @@
 
 ## 🧭 About Me
 
-I'm a **Web Engineer with 2 years of experience** and a **GIS/Remote Sensing background**, studying at **NUST IGIS** (Institute of Geographical Information Systems, School of Civil & Environmental Engineering), Pakistan.
+I'm a **Web Engineer with 2 years of experience**, with a GIS/Remote Sensing background on the side.
 
-What drives me most isn't just building — it's **building community**. As the **AWS Student Builder Group Leader** at NUST, I focus on getting students into tech *early*. Too many students don't touch real projects, cloud tools, or open source until their 2nd year of university — I want to change that starting point.
-
-That belief is exactly why I'm building **TaleemKaSafar**.
+The one thing I care about most: **every student should be able to start their tech journey early** — not stumble into their first real project in 2nd year of university, and not miss the door entirely because they never had access to it. That belief shapes everything I build.
 
 <br/>
 
-## 🚀 What I'm Building — TaleemKaSafar
+## 🤝 Building Community
 
-**TaleemKaSafar** is an **AI-based learning platform** built to make quality education accessible to every student, regardless of background, city, or resources.
-
-I care deeply about EdTech because it sits at the intersection of the two things I love most: **technology and community impact**. Every feature I build is guided by one question — *does this help a student learn something they couldn't easily access before?*
+I'm an active member of the **AWS Student Builder Group community**, working toward AWS's broader mission of helping students start their tech careers earlier — including students who don't know where to begin, and those who never had access to formal schooling or a CS pathway at all. My focus is on running sessions, hackathons, and mentorship spaces that meet students at that starting line.
 
 <br/>
 
-## 🎯 Why I'm on This Path
+## 🚀 Building TaleemKaSafar
 
-- 🌱 Helping students discover tech **early** — not waiting until their 2nd year of university to write their first line of real code
-- 🤝 Organizing hackathons, workshops, and cloud sessions through the **AWS Student Builder Group**
-- 📚 Building **TaleemKaSafar**, an AI-based platform to make learning accessible for all
-- 🛰️ Bridging **GIS/Remote Sensing** with modern web + AI tooling
-- 🎓 Currently applying to the **GitHub Campus Expert** program to scale community impact further
+**TaleemKaSafar** is an **AI-based learning platform** built around the exact same mission — giving students, especially those with no early exposure to tech and no formal schooling behind them, a real place to start learning.
 
 <br/>
 
@@ -69,6 +64,7 @@ I care deeply about EdTech because it sits at the intersection of the two things
 **Cloud & Infrastructure**
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
@@ -86,10 +82,13 @@ I care deeply about EdTech because it sits at the intersection of the two things
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
-**GIS & Remote Sensing**
+**GIS & Mapping**
 
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
+<img src="https://img.shields.io/badge/GeoServer-005A9C?style=for-the-badge&logo=geoserver&logoColor=white" />
 
 **Tools & Platforms**
 
@@ -109,22 +108,14 @@ I care deeply about EdTech because it sits at the intersection of the two things
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhmdusman&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=muhmdusman&theme=tokyonight&hide_border=true" />
 </div>
-
-<br/>
-
-## 📌 Note
-
-📍 My main GitHub account has moved to **[github.com/muhmdusman](https://github.com/muhmdusman)** — this is where all active work, contributions, and community projects now live.
 
 <br/>
 
 <div align="center">
 
-### 🤝 Let's Connect
-
-If you're a student who wants to start building early, or you're working on something in **EdTech, GIS, or AI**, I'd love to hear from you.
+### 📩 Let's Connect
 
 <img src="https://komarev.com/ghpvc/?username=muhmdusman&style=for-the-badge&color=2EA3F7" alt="Profile Views"/>
 
