@@ -21,7 +21,7 @@
 
 I'm a **Web Engineer with 2 years of experience**, with a GIS/Remote Sensing background on the side.
 
-The one thing I care about most: **every student should be able to start their tech journey early** — not stumble into their first real project in 2nd year of university, and not miss the door entirely because they never had access to it. That belief shapes everything I build, including the work I do as an active member of the **AWS Student Builder Group community**, running sessions and mentorship spaces for students who don't know where to begin.
+The one thing I care about most: **every student should be able to start their tech journey early** — not stumble into their first real project in 2nd year of university, and not miss the door entirely because they never had access to it. That belief shapes everything I build, including the work I do as an active member of the **AWS Student Builder Group community**, running sessions and helping students who don't know where to begin.
 
 <br/>
 
