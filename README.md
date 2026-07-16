@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammad Usman 👋
 
-**Web Engineer · Community Builder · Helping Students Start Tech Earlier**
+**Web Engineer · EdTech · GIS Engineer . Helping Students Start Tech Earlier**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Every+student+deserves+to+start+tech+early;Not+in+2nd+year.+Not+never.;Building+TaleemKaSafar+to+close+that+gap." alt="Typing SVG" />
 
