@@ -107,7 +107,11 @@ The one thing I care about most: **every student should be able to start their t
 ### 📩 Let's Connect
 
 <img src="https://komarev.com/ghpvc/?username=muhmdusman&style=for-the-badge&color=2EA3F7" alt="Profile Views"/>
- 📍 **Note:** This account has been migrated — my active GitHub profile is now [github.com/muhmdusman](https://github.com/muhmdusman).
+ 
+</div>
+
+<div align="center">
+📍 **Note:** This account has been migrated — my active GitHub profile is now [github.com/muhmdusman](https://github.com/muhmdusman).
 </div>
 
 
