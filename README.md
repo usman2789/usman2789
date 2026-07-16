@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammad Usman 👋
 
-**Web Engineer · EdTech · GIS Engineer .**
+**Web Engineer · Community Builder · Helping Students Start Tech Earlier**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Every+student+deserves+to+start+tech+early;Not+in+2nd+year.+Not+never.;Building+TaleemKaSafar+to+close+that+gap." alt="Typing SVG" />
 
@@ -17,11 +17,15 @@
 
 <br/>
 
+> 📍 **Note:** This account has been migrated — my active GitHub profile is now [github.com/muhmdusman](https://github.com/muhmdusman).
+
+<br/>
+
 ## 🧭 About Me
 
 I'm a **Web Engineer with 2 years of experience**, with a GIS/Remote Sensing background on the side.
 
-The one thing I care about most: **every student should be able to start their tech journey early** — not stumble into their first real project in 2nd year of university, and not miss the door entirely because they never had access to it. That belief shapes everything I build, including the work I do as an active member of the **AWS Student Builder Group community**, running sessions and helping students who don't know where to begin.
+The one thing I care about most: **every student should be able to start their tech journey early** — not stumble into their first real project in 2nd year of university, and not miss the door entirely because they never had access to it. That belief shapes everything I build, including the work I do as an active member of the **AWS Student Builder Group community**, running sessions and mentorship spaces for students who don't know where to begin.
 
 <br/>
 
@@ -107,11 +111,5 @@ The one thing I care about most: **every student should be able to start their t
 ### 📩 Let's Connect
 
 <img src="https://komarev.com/ghpvc/?username=muhmdusman&style=for-the-badge&color=2EA3F7" alt="Profile Views"/>
- 
+
 </div>
-
-<div align="center">
-📍 **Note:** This account has been migrated — my active GitHub profile is now [github.com/muhmdusman](https://github.com/muhmdusman).
-</div>
-
-
