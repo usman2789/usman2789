@@ -4,17 +4,14 @@
 
 **Web Engineer · Community Builder · Helping Students Start Tech Earlier**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Every+student+deserves+to+have+atleast+one+chance;students+should+start+early+Not+in+2nd+year;Building+TaleemKaSafar+to+close+that+gap." alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Every+child+deserves+a+chance+to+build+their+future;Trying+to+help+many+of+them+get+that+chance;Building+TaleemKaSafar+to+make+it+real." alt="Typing SVG" />
 <p>
   <a href="https://muhmdusman.site"><img src="https://img.shields.io/badge/Portfolio-muhmdusman.site-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:hi@muhmdusman.site"><img src="https://img.shields.io/badge/Email-hi%40muhmdusman.site-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-usman-0ba87a289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/muhmdusman"><img src="https://img.shields.io/badge/GitHub-muhmdusman-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
 </div>
-
 <br/>
 
 > 📍 **Note:** This account has been migrated — my active GitHub profile is now [github.com/muhmdusman](https://github.com/muhmdusman).
